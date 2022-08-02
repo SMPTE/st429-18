@@ -1,6 +1,13 @@
-# ST 429-18
+# SMPTE ST 429-18, D-Cinema Packaging - Immersive Audio Track File
 
+_This repository is public._ 
 
-Managed by [TC 21-DC](https://kws.smpte.org/higherlogic/ws/groups/db60330e-84de-4faf-a59d-f8a29e10ce07)
+Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and [PATENTS.md](./PATENTS.md) for important notices.
 
-Document [abstract](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=st429-18)
+## Reporting issues
+
+Please report issues at <https://github.com/SMPTE/st429-18/issues> or at the 21DC Chairs <21dc-chair@smpte.org>.
+
+## Project details
+
+Maintenance revision project approved, work pending.
